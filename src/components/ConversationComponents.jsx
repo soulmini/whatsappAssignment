@@ -36,6 +36,7 @@ width:30px;
 height: 28px;
 opacity: 0.4;
 cursor: pointer;
+padding-left : 21px;
 `;
 const MessageContainer = styled.div`
 display: flex;
